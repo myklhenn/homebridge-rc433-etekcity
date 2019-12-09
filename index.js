@@ -1,4 +1,4 @@
-const rpi433    = require('rpi-433');
+const rpi433    = require('rpi-433-v2');
 const rfEmitter = rpi433.emitter({pin: 0, pulseLength: 179});
 
 let Service;

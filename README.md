@@ -1,5 +1,8 @@
 # Homebridge RC433 Etekcity Plugin
 
+*This fork of [ChristopherNeuwirth](https://github.com/ChristopherNeuwirth)'s plugin replaces the `rpi-433` dependency (which was failing to compile at the time of this writing) with `rpi-433-v2`. No other changes have been made.*
+*– myklhenn*
+
 This Homebridge plugin enables you to control [433mhz Etekcity switchs](https://www.amazon.de/dp/B016I3TZ58/ref=wl_it_dp_o_pC_nS_ttl?_encoding=UTF8&colid=3NEM5I6QUP4AR&coliid=I166WF1IKFO0FK) by a Raspberry Pi.
 
 ![](https://raw.githubusercontent.com/ChristopherNeuwirth/homebridge-rc433-etekcity/master/docs/71FyoY6RWWL._SL1500_.jpg)
